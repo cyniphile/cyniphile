@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyniphile
-- 👀 I’m interested in biology and writing (dramatic, comedic, non-ficion, &c.)
+- 👀 I’m interested in computational biology and writing (dramatic, comedic, non-fiction, &c.)
 - 🌱 I’m currently learning bioinformatics using python.
 - 💞️ I’m looking to collaborate on anything to do with biology.
 
