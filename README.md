@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyniphile
 - 👀 I’m interested in computational biology and writing (dramatic, comedic, non-fiction, &c.)
-- 🌱 I’m currently learning bioinformatics using python.
+- 🌱 I’m currently learning bioinformatics using python and rust.
 - 💞️ I’m looking to collaborate on anything to do with biology.
 
 <!---
